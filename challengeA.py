@@ -1,4 +1,5 @@
-'''	Prepared by: MOHD ZULFADZLI BIN AB JALIL
+'''	
+	Prepared by: MOHD ZULFADZLI BIN AB JALIL
 	Omnilytics - Programming Challenge (A)
 	This program will generate a text file with 10 MB size (targerted file size)
 	which contains random alphabetical strings, real numbers, integers and alphanumreic.
